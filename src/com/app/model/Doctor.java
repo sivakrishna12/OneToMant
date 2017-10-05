@@ -1,5 +1,5 @@
 package com.app.model;
-
+//this is doctor module
 import java.util.Set;
 
 import javax.persistence.CascadeType;
